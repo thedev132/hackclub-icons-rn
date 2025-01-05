@@ -18,20 +18,20 @@
     "prepare": "tsc && babel src/index.tsx --extensions .tsx --out-dir dist --presets @babel/env,@babel/react,@babel/typescript"
   },
   "peerDependencies": {
-    "react": "^18.2.0"
+    "react": "18.3.1"
   },
   "devDependencies": {
-    "@babel/cli": "^7.11.6",
-    "@babel/core": "^7.11.6",
-    "@babel/preset-env": "^7.11.5",
-    "@babel/preset-react": "^7.10.4",
-    "@babel/preset-typescript": "^7.12.7",
-    "@types/prop-types": "^15.7.3",
-    "@types/react": "^17.0.0",
-    "prop-types": "^15.7.2",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
-    "typescript": "^4.1.3"
+    "@babel/cli": "^7.26.4",
+    "@babel/core": "^7.26.0",
+    "@babel/preset-env": "^7.26.0",
+    "@babel/preset-react": "^7.26.3",
+    "@babel/preset-typescript": "^7.26.0",
+    "@types/prop-types": "^15.7.14",
+    "@types/react": "^18.3.12",
+    "prop-types": "^15.8.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "typescript": "^4.9.5"
   },
   "repository": {
     "type": "git",
@@ -40,5 +40,8 @@
   "bugs": {
     "url": "https://github.com/hackclub/icons/issues"
   },
-  "homepage": "https://icons.hackclub.com"
+  "homepage": "https://icons.hackclub.com",
+  "dependencies": {
+    "react-native-svg": "^15.10.1"
+  }
 }
