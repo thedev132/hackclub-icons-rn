@@ -1,5 +1,5 @@
 {
-  "name": "@hackclub/icons",
+  "name": "@hackclub/icons-rn",
   "version": "0.0.14",
   "description": "Hack Club’s iconset, a superset of spectrum-icons",
   "main": "dist/index.js",
@@ -11,7 +11,7 @@
     "icon",
     "react"
   ],
-  "author": "Lachlan Campbell <lachlan@hackclub.com>",
+  "author": "Mohamad Mortada <mmortada685@gmail.com>",
   "scripts": {
     "build": "next build",
     "dev": "next",
@@ -35,10 +35,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hackclub/icons.git"
+    "url": "git+https://github.com/thedev132/icons-rn.git"
   },
   "bugs": {
-    "url": "https://github.com/hackclub/icons/issues"
+    "url": "https://github.com/thedev132/icons-rn/issues"
   },
   "homepage": "https://icons.hackclub.com",
   "dependencies": {
