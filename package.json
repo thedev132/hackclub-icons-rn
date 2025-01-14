@@ -1,5 +1,5 @@
 {
-  "name": "hackclub-icons-rn",
+  "name": "@hackclub/hackclub-icons-rn",
   "version": "0.0.14",
   "description": "Hack Club’s iconset, a superset of spectrum-icons for React Native",
   "main": "dist/index.js",
@@ -11,7 +11,7 @@
     "icon",
     "react"
   ],
-  "author": "Mohamad Mortada <mmortada685@gmail.com>",
+  "author": "Mohamad Mortada <mohamad@mortada.dev>",
   "scripts": {
     "build": "next build",
     "dev": "next",
