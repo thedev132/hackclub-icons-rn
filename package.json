@@ -41,7 +41,4 @@
     "url": "https://github.com/thedev132/icons-rn/issues"
   },
   "homepage": "https://icons.hackclub.com",
-  "dependencies": {
-    "react-native-svg": "^15.10.1"
-  }
 }
